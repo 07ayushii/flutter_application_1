@@ -38,7 +38,7 @@ class MyApp extends StatelessWidget {
           return RouteDetailsScreen(
             startLocation: startLocation,
             endLocation: endLocation,
-            stopLocations: stopLocations, // List of stop points
+            stopLocations: stopLocations, 
           );
         },
       },
